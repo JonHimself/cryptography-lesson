@@ -1,0 +1,4 @@
+in 2018 MyFitnessPal was hacked. Usernames, passwordhashes, and email addresses were stolen.
+MyFItnessPal was using SHA-1 to protect their passwords, however they coverted to bcrypt after this incident.
+The tech flaws were a less than protectived hashing crpyt. 
+The only statements from MyFitnessPal on how they plan to protect data is the furture is through "updating their systems and having users change their passwords".
